@@ -722,6 +722,7 @@ A: You should expect to provide the following:
 The auditor may also request source code access to binary elements of the submission software. Where information or access is not provided, the auditor's report will list the issues that could not be resolved.
 
 Q: Is it expected that an audit will be concluded during the review period?
+
 A: No. We should try to finish the audit before the publication date. 
 
 == Appendix Number of Queries
